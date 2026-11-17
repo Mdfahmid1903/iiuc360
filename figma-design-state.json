@@ -1,0 +1,485 @@
+{
+  "createdNodeIds": [
+    "16:27",
+    "16:28",
+    "16:29",
+    "16:30",
+    "16:31",
+    "16:32",
+    "16:33",
+    "16:34",
+    "16:35",
+    "16:36",
+    "16:37",
+    "16:38",
+    "16:39",
+    "16:40",
+    "16:41"
+  ],
+  "board": {
+    "id": "20:201",
+    "x": 6214,
+    "y": 616,
+    "width": 1900,
+    "height": 6550
+  },
+  "kitId": "16:31",
+  "collectionId": "VariableCollectionId:16:2",
+  "modeIds": {
+    "Light": "16:0",
+    "Dark": "16:1"
+  },
+  "variables": {
+    "page": "VariableID:16:3",
+    "surface": "VariableID:16:4",
+    "ink": "VariableID:16:5",
+    "muted": "VariableID:16:6",
+    "line": "VariableID:16:7",
+    "primary": "VariableID:16:8",
+    "onPrimary": "VariableID:16:9",
+    "tint": "VariableID:16:10",
+    "glass": "VariableID:16:11",
+    "success": "VariableID:16:12",
+    "warm": "VariableID:16:13",
+    "space/8": "VariableID:16:15",
+    "space/12": "VariableID:16:16",
+    "space/16": "VariableID:16:17",
+    "space/24": "VariableID:16:18",
+    "radius/pill": "VariableID:16:19",
+    "radius/panel": "VariableID:16:20"
+  },
+  "styles": {
+    "title": "S:687e439ca31c24a684010cc01eeba3d815a3aa93,",
+    "heading": "S:3b97f7ceee8c3ba1c60553b888f2ae792ba4d222,",
+    "body": "S:e30ef02fa97158f7cbdc4febfc4d8e341a62dee2,",
+    "label": "S:add98ff7871fe8dc13b6a04a818f3c39a237d221,",
+    "caption": "S:11a9b0c33618885a419eb4774ad5a1587e49c13d,"
+  },
+  "glassStyleId": "S:fe1f18b106b7aa60dc8164707bbbe17861ab7f8f,",
+  "components": {
+    "Primary": {
+      "id": "16:33",
+      "prop": "Label#16:0"
+    },
+    "Glass": {
+      "id": "16:35",
+      "prop": "Label#16:1"
+    },
+    "Quiet": {
+      "id": "16:37",
+      "prop": "Label#16:2"
+    },
+    "Field": {
+      "id": "16:39",
+      "prop": "Label#16:3"
+    }
+  },
+  "screens": {
+    "Onboarding": "17:3",
+    "Home": "17:38",
+    "Routine": "17:98",
+    "Teachers": "17:180",
+    "Transport": "17:245",
+    "Map": "17:300",
+    "Updates": "17:514",
+    "Review update": "17:566",
+    "Home Bangla": "17:619",
+    "Home dark": "17:679",
+    "Home Bangla dark": "17:739",
+    "Prayer": "17:799",
+    "Home — desktop": "18:157",
+    "Schedule manager — desktop": "18:239",
+    "Campus map — desktop": "18:329",
+    "mapHost": "18:387",
+    "Update published": "18:388",
+    "Home — after bus update": "20:307",
+    "Transport — after bus update": "20:354"
+  },
+  "links": [
+    {
+      "id": "17:7",
+      "dest": "Home Bangla"
+    },
+    {
+      "id": "17:9",
+      "dest": "Home dark"
+    },
+    {
+      "id": "17:34",
+      "dest": "Home"
+    },
+    {
+      "id": "17:42",
+      "dest": "Home Bangla"
+    },
+    {
+      "id": "17:44",
+      "dest": "Home dark"
+    },
+    {
+      "id": "17:68",
+      "dest": "Transport"
+    },
+    {
+      "id": "17:72",
+      "dest": "Routine"
+    },
+    {
+      "id": "17:92",
+      "dest": "Teachers"
+    },
+    {
+      "id": "17:94",
+      "dest": "Map"
+    },
+    {
+      "id": "17:102",
+      "dest": "Home Bangla"
+    },
+    {
+      "id": "17:104",
+      "dest": "Home dark"
+    },
+    {
+      "id": "17:125",
+      "dest": "Updates"
+    },
+    {
+      "id": "17:176",
+      "dest": "Updates"
+    },
+    {
+      "id": "17:184",
+      "dest": "Home Bangla"
+    },
+    {
+      "id": "17:186",
+      "dest": "Home dark"
+    },
+    {
+      "id": "17:249",
+      "dest": "Home Bangla"
+    },
+    {
+      "id": "17:251",
+      "dest": "Home dark"
+    },
+    {
+      "id": "17:297",
+      "dest": "Updates"
+    },
+    {
+      "id": "17:304",
+      "dest": "Home Bangla"
+    },
+    {
+      "id": "17:306",
+      "dest": "Home dark"
+    },
+    {
+      "id": "17:508",
+      "dest": "Campus map — desktop"
+    },
+    {
+      "id": "17:518",
+      "dest": "Home Bangla"
+    },
+    {
+      "id": "17:520",
+      "dest": "Home dark"
+    },
+    {
+      "id": "17:544",
+      "dest": "Review update"
+    },
+    {
+      "id": "17:555",
+      "dest": "Review update"
+    },
+    {
+      "id": "17:570",
+      "dest": "Home Bangla"
+    },
+    {
+      "id": "17:572",
+      "dest": "Home dark"
+    },
+    {
+      "id": "17:623",
+      "dest": "Home"
+    },
+    {
+      "id": "17:625",
+      "dest": "Home Bangla dark"
+    },
+    {
+      "id": "17:649",
+      "dest": "Transport"
+    },
+    {
+      "id": "17:653",
+      "dest": "Routine"
+    },
+    {
+      "id": "17:673",
+      "dest": "Teachers"
+    },
+    {
+      "id": "17:675",
+      "dest": "Map"
+    },
+    {
+      "id": "17:683",
+      "dest": "Home Bangla dark"
+    },
+    {
+      "id": "17:685",
+      "dest": "Home"
+    },
+    {
+      "id": "17:709",
+      "dest": "Transport"
+    },
+    {
+      "id": "17:713",
+      "dest": "Routine"
+    },
+    {
+      "id": "17:733",
+      "dest": "Teachers"
+    },
+    {
+      "id": "17:735",
+      "dest": "Map"
+    },
+    {
+      "id": "17:743",
+      "dest": "Home dark"
+    },
+    {
+      "id": "17:745",
+      "dest": "Home Bangla"
+    },
+    {
+      "id": "17:769",
+      "dest": "Transport"
+    },
+    {
+      "id": "17:773",
+      "dest": "Routine"
+    },
+    {
+      "id": "17:793",
+      "dest": "Teachers"
+    },
+    {
+      "id": "17:795",
+      "dest": "Map"
+    },
+    {
+      "id": "17:803",
+      "dest": "Home Bangla"
+    },
+    {
+      "id": "17:805",
+      "dest": "Home dark"
+    },
+    {
+      "id": "17:851",
+      "dest": "Map"
+    },
+    {
+      "id": "18:161",
+      "dest": "Home — desktop"
+    },
+    {
+      "id": "18:163",
+      "dest": "Routine"
+    },
+    {
+      "id": "18:165",
+      "dest": "Teachers"
+    },
+    {
+      "id": "18:167",
+      "dest": "Campus map — desktop"
+    },
+    {
+      "id": "18:169",
+      "dest": "Schedule manager — desktop"
+    },
+    {
+      "id": "18:172",
+      "dest": "Home Bangla"
+    },
+    {
+      "id": "18:174",
+      "dest": "Home dark"
+    },
+    {
+      "id": "18:191",
+      "dest": "Routine"
+    },
+    {
+      "id": "18:193",
+      "dest": "Campus map — desktop"
+    },
+    {
+      "id": "18:224",
+      "dest": "Transport"
+    },
+    {
+      "id": "18:228",
+      "dest": "Teachers"
+    },
+    {
+      "id": "18:230",
+      "dest": "Campus map — desktop"
+    },
+    {
+      "id": "18:235",
+      "dest": "Schedule manager — desktop"
+    },
+    {
+      "id": "18:243",
+      "dest": "Home — desktop"
+    },
+    {
+      "id": "18:245",
+      "dest": "Routine"
+    },
+    {
+      "id": "18:247",
+      "dest": "Teachers"
+    },
+    {
+      "id": "18:249",
+      "dest": "Campus map — desktop"
+    },
+    {
+      "id": "18:251",
+      "dest": "Schedule manager — desktop"
+    },
+    {
+      "id": "18:254",
+      "dest": "Home Bangla"
+    },
+    {
+      "id": "18:256",
+      "dest": "Home dark"
+    },
+    {
+      "id": "18:283",
+      "dest": "Review update"
+    },
+    {
+      "id": "18:320",
+      "dest": "Update published"
+    },
+    {
+      "id": "18:333",
+      "dest": "Home — desktop"
+    },
+    {
+      "id": "18:335",
+      "dest": "Routine"
+    },
+    {
+      "id": "18:337",
+      "dest": "Teachers"
+    },
+    {
+      "id": "18:339",
+      "dest": "Campus map — desktop"
+    },
+    {
+      "id": "18:341",
+      "dest": "Schedule manager — desktop"
+    },
+    {
+      "id": "18:344",
+      "dest": "Home Bangla"
+    },
+    {
+      "id": "18:346",
+      "dest": "Home dark"
+    },
+    {
+      "id": "18:401",
+      "dest": "Transport"
+    },
+    {
+      "id": "18:403",
+      "dest": "Schedule manager — desktop"
+    }
+  ],
+  "status": "Onboarding and original icon navigation corrected; visually verified",
+  "sourceNotes": {
+    "map": "Public OpenStreetMap API geometry; Google Maps access unavailable; labels require campus validation",
+    "schedules": "Demo data pending user PDFs",
+    "teacherPhotos": "Not collected or stored"
+  },
+  "navigation": [
+    {
+      "screenId": "17:38",
+      "navId": "31:228"
+    },
+    {
+      "screenId": "17:98",
+      "navId": "31:260"
+    },
+    {
+      "screenId": "17:180",
+      "navId": "31:292"
+    },
+    {
+      "screenId": "17:245",
+      "navId": "31:324"
+    },
+    {
+      "screenId": "17:300",
+      "navId": "31:357"
+    },
+    {
+      "screenId": "17:514",
+      "navId": "31:389"
+    },
+    {
+      "screenId": "17:566",
+      "navId": "31:421"
+    },
+    {
+      "screenId": "17:619",
+      "navId": "31:454"
+    },
+    {
+      "screenId": "17:679",
+      "navId": "31:487"
+    },
+    {
+      "screenId": "17:739",
+      "navId": "31:520"
+    },
+    {
+      "screenId": "17:799",
+      "navId": "31:553"
+    },
+    {
+      "screenId": "20:307",
+      "navId": "31:586"
+    },
+    {
+      "screenId": "20:354",
+      "navId": "31:618"
+    }
+  ],
+  "onboardingContract": {
+    "fields": [
+      "Full name",
+      "Student ID / roll"
+    ],
+    "nameUse": "Greetings only",
+    "rollUse": "Identify semester",
+    "locationInput": "Transport only"
+  }
+}

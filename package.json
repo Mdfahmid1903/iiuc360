@@ -1,0 +1,12 @@
+{
+  "name": "iiuc-student-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser-local university assignment in HTML, CSS and JavaScript",
+  "scripts": {
+    "dev": "node server.cjs",
+    "start": "node server.cjs",
+    "test": "node --test tests/domain.test.cjs",
+    "build": "node scripts/build.cjs"
+  }
+}

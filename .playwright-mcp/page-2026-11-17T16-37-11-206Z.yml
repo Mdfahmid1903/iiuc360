@@ -1,0 +1,31 @@
+- generic [active] [ref=f7e1]:
+  - link "Skip to content" [ref=f7e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f7e4]:
+    - banner [ref=f7e5]:
+      - generic [ref=f7e6]:
+        - button "Switch to Bangla" [ref=f7e7] [cursor=pointer]: বাংলা
+        - button "Switch to dark theme" [ref=f7e8] [cursor=pointer]: Dark
+    - main [ref=f7e9]:
+      - img "IIUC 360" [ref=f7e10]:
+        - generic [aria-hidden] [ref=f7e12]:
+          - generic [ref=f7e13]: IIUC
+          - strong [ref=f7e14]: "360"
+      - generic [ref=f7e15]:
+        - heading "A little about you." [level=1] [ref=f7e16]
+        - paragraph [ref=f7e17]: Enter your name and roll to get started.
+      - generic [ref=f7e18]: Welcome to IIUC
+      - generic [ref=f7e19]:
+        - generic [ref=f7e20]:
+          - text: Full name
+          - textbox "Full name Used only for your greeting." [ref=f7e21]:
+            - /placeholder: Rahim Uddin
+          - generic [ref=f7e22]: Used only for your greeting.
+        - generic [ref=f7e23]:
+          - text: Student ID / roll
+          - textbox "Student ID / roll Your semester is identified from your roll." [ref=f7e24]:
+            - /placeholder: C221234
+          - generic [ref=f7e25]: Your semester is identified from your roll.
+        - button "Get Started →" [ref=f7e26] [cursor=pointer]
+      - generic [ref=f7e27]: Assignment demo · try C221234 (semester 5), C231234 (semester 3), or C241234 (semester 1). These are sample mappings.
+  - status
